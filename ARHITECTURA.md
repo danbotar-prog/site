@@ -1,0 +1,1 @@
+ARHITECTURA.md
